@@ -1,0 +1,16 @@
+#webcam{
+    border: 10px darkcyan dashed;
+    width: 300px;
+    height: 300px;
+}
+#hb{
+    height: 50px;
+    width: 800px;
+    font-size: 30px;
+}
+body{
+    background-color: darkgoldenrod;
+}
+.men{
+    color: rgb(168, 15, 46);
+}
